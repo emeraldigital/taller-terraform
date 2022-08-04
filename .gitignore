@@ -1,0 +1,10 @@
+# Terraform files
+.terraform
+terraform.tfstate
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+terraform.tfstate.backup
+
+# Ignore terraform vars
+03-comandos/terraform.tfvars
+04-backend/**/terraform.tfvars

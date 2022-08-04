@@ -1,0 +1,1 @@
+EXAMPLE = "Este es un ejemplo del uso del archivo .tfvars"
